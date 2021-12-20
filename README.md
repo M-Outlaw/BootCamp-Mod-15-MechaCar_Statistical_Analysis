@@ -31,7 +31,7 @@ The purpose of this analysis is to use R to help Jeremy, an analyst at AutosRUs,
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-15-MechaCar_Statistical_Analysis/blob/main/Images/Linear_Regression_Summary.png"width="503" height="384"/></p>
 
 
--The slope of the linear model is not considered to be zero because there is a significant linear relationship between two of the variables. The only way it could be considered zero, since we are using a multiple linear regression is if all variables had a slope of 0.
+- The slope of the linear model is not considered to be zero because there is a significant linear relationship between two of the variables. The only way it could be considered zero, since we are using a multiple linear regression is if all variables had a slope of 0.
 
 
 - This linear model is a relatively good model with an r-square of 0.71, but the model could more effectively predict mpg of MechaCar prototypes, seen from the fact that some of the variables do not have a significant impact on the mpg. However, removing these variables causes the r-squared value to go down to 0.67, showing that there is at least one other variable that was not included that is contributing to mpg.
@@ -54,7 +54,7 @@ The purpose of this analysis is to use R to help Jeremy, an analyst at AutosRUs,
 * Lots 1 and 2 meet the design specifications since the variance is in the single digits for both of these.
 * Lot 3 does not meet the design specifications since the variance is greater than 170 PSI.
 
--This is further shown by the boxplots of each manufacturing lot. Lot 3 has a much larger spread than the other two lots.
+- This is further shown by the boxplots of each manufacturing lot. Lot 3 has a much larger spread than the other two lots.
 <p align="center"><img src="https://github.com/M-Outlaw/BootCamp-Mod-15-MechaCar_Statistical_Analysis/blob/main/Images/Boxplot.png"width="310" height="425"/></p>
 
 
